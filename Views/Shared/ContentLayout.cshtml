@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "ContentLayout";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="card">
+        <div class="card-header">
+            <ul class="nav nav-tabs card-header-tabs">
+                <li class="nav-item">
+                    @Html.ActionLink("View Users", "Index", "Wallet",null, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Remove Device", "Index", "Device",null, new { @class = "nav-link" })
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Page</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Page</a>
+                </li>
+            </ul>
+        </div>
+        <div class="card-body">
+                @RenderBody()
+        </div>
+    </div>
+

@@ -1,0 +1,185 @@
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\WalletWebUtility.dll.config
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\WalletWebUtility.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\WalletWebUtility.pdb
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csc.exe
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csc.exe.config
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csc.rsp
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csi.exe
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csi.rsp
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.AppContext.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\vbc.exe
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\vbc.exe.config
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\vbc.rsp
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\VBCSCompiler.exe
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\EntityFramework.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\EntityFramework.SqlServer.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\MySql.Data.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\MySql.Data.Entity.EF6.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Helpers.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Mvc.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Razor.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.Razor.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\EntityFramework.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\EntityFramework.SqlServer.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Razor.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.Razor.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Helpers.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Mvc.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.csprojAssemblyReference.cache
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.csproj.CoreCompileInputs.cache
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.csproj.CopyComplete
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.pdb
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Antlr3.Runtime.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Newtonsoft.Json.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Optimization.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\WebGrease.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Antlr3.Runtime.pdb
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Newtonsoft.Json.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Optimization.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\WalletWebUtility.dll.config
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\WalletWebUtility.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\WalletWebUtility.pdb
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csc.exe
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csc.exe.config
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csc.rsp
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csi.exe
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\csi.rsp
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.AppContext.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.Collections.Immutable.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.IO.FileSystem.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\vbc.exe
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\vbc.exe.config
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\vbc.rsp
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\VBCSCompiler.exe
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\roslyn\VBCSCompiler.exe.config
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Antlr3.Runtime.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\EntityFramework.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\EntityFramework.SqlServer.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Microsoft.Web.Infrastructure.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\MySql.Data.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\MySql.Data.Entity.EF6.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Newtonsoft.Json.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Helpers.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Mvc.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Optimization.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Razor.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.Deployment.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.Razor.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\WebGrease.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Antlr3.Runtime.pdb
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\EntityFramework.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\EntityFramework.SqlServer.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Newtonsoft.Json.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Optimization.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Razor.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.Deployment.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Webpages.Razor.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Helpers.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\System.Web.Mvc.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.csprojAssemblyReference.cache
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.csproj.CopyComplete
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\MVC\WalletWebUtility\obj\Debug\WalletWebUtility.pdb
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\WalletWebUtility.dll.config
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\WalletWebUtility.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\WalletWebUtility.pdb
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\csc.exe
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\csc.exe.config
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\csc.rsp
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\csi.exe
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\csi.rsp
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\System.AppContext.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\vbc.exe
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\vbc.exe.config
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\vbc.rsp
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\VBCSCompiler.exe
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Antlr3.Runtime.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\EntityFramework.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\EntityFramework.SqlServer.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\MySql.Data.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\MySql.Data.Entity.EF6.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Newtonsoft.Json.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Helpers.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Mvc.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Optimization.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Razor.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Webpages.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Webpages.Razor.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\WebGrease.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Antlr3.Runtime.pdb
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\EntityFramework.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\EntityFramework.SqlServer.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Newtonsoft.Json.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Optimization.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Razor.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Webpages.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Webpages.Razor.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Helpers.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\System.Web.Mvc.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\obj\Debug\WalletWebUtility.csprojAssemblyReference.cache
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\obj\Debug\WalletWebUtility.csproj.CoreCompileInputs.cache
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\obj\Debug\WalletWebUtility.csproj.CopyComplete
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\obj\Debug\WalletWebUtility.dll
+C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\obj\Debug\WalletWebUtility.pdb

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WalletWebUtility.Models.MobileLogin>
+@{
+    ViewBag.Title = "ML Wallet Public - Wallet Users";
+    Layout = "~/Views/Shared/ContentLayout.cshtml";
+}
+<div class="card border-left-primary shadow h-100 py-2">
+    <div class="card-body">
+        <h4 class="card-header">Wallet Public Users</h4>
+        @using (Html.BeginForm("Index", "Wallet", FormMethod.Get))
+        {
+            <div class="from-group row">
+
+                <div class="col-sm-2" style="padding-right:5px;">
+
+                    @Html.DropDownList("PageSize", new List<SelectListItem> {
+                new SelectListItem{ Text="1",Value="1"},
+                new SelectListItem{ Text="10",Value="10"},
+                new SelectListItem{ Text="50",Value="50"},
+                new SelectListItem{ Text="100",Value="100"}
+                }, new { @class = "form-control input-sm", @id = "drpsort" })
+
+                </div>
+
+                <div class="col-sm-8" style="float:left; padding-left:0px;">
+                    <input type="text" name="searchString" value="" class="form-control" placeholder="Search Wallet Number" />
+                </div>
+                <div class="col-sm-2">
+                    <input type="submit" value="Filter" class="btn btn-default" />
+                </div>
+
+            </div>
+        }
+      
+    <div id="himohimoniIan">
+        @Html.Partial("~/Views/Wallet/_WalletUsersTable.cshtml", Model);
+    </div>
+     
+    </div>
+</div>
+@*<div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" id="loadingModalniIan" data-backdrop="static">
+    <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+                Loading...           
+        </div>
+    </div>
+</div>*@

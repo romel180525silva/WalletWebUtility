@@ -1,0 +1,56 @@
+﻿
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/ContentLayout.cshtml";
+}
+
+@model IEnumerable<WalletWebUtility.Models.device>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/ContentLayout.cshtml";
+}
+
+<div class="card border-left-primary shadow h-100 py-2">
+    <div class="card-body">
+        <h4 class="card-header">Wallet Public Devices</h4>
+        <div class="from-group row">
+
+            <div class="col-sm-12" style="float:left;">
+                <input type="text" name="name" value="" class="form-control" placeholder="Search Wallet Number" />
+            </div>
+        </div>
+
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.walletno)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.deviceid)
+                </th>
+                <th>Actions</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.walletno)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.deviceid)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Details ", "Details", new { id = item.walletno }, new { @class = "btn btn-info" })
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+
+
+
