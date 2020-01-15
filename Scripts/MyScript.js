@@ -29,7 +29,7 @@
     function noTransitionAnimation() {
         var loading = new Loading({
             direction: 'hor',
-            discription: 'Loading.....',
+            discription: 'Loading....',
             animationIn: false,
             animationOut: false,
             defaultApply: true,
