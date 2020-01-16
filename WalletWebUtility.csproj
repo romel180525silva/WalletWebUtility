@@ -15,7 +15,7 @@
     <AssemblyName>WalletWebUtility</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
-    <Use64BitIISExpress />
+    <Use64BitIISExpress>false</Use64BitIISExpress>
     <IISExpressSSLPort>44355</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -147,6 +147,7 @@
     <Content Include="Views\Device\Index.cshtml" />
     <Content Include="Views\Device\Details.cshtml" />
     <Content Include="Views\Wallet\_WalletUsersTable.cshtml" />
+    <Content Include="Views\Device\_ModalCfrDlt.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
