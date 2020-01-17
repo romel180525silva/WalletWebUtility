@@ -336,3 +336,33 @@ C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUti
 C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\1.0\WalletWebUtility\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
 C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\1.0\WalletWebUtility\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
 C:\Users\SILV18094641\Documents\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\1.0\WalletWebUtility\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Microsoft.VisualStudio.Threading.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Microsoft.VisualStudio.Validation.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Microsoft.VisualStudio.Threading.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\Microsoft.VisualStudio.Validation.xml
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\Software Development\Visual Studio 2019\WebSites\ASP.NET\WalletWebUtility\bin\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
