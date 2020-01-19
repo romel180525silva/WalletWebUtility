@@ -23,7 +23,8 @@
        
         <div class="login-main">
             <div class="login-container">
-                <form action="/" method="post">
+                @using (Html.BeginForm("Authentication", "Login", FormMethod.Post))
+                {
                     <div class="login-form-body mt-3">
                         <div class="login-form-header">
                             <h5>Sign in to Wallet Web Utility</h5>
@@ -38,15 +39,14 @@
                                     <a class="label-link" href="/password_reset">Forgot password?</a>
                                 </label>
                                 <input type="text" name="name" value="" class="form-control" />
-                                <button class="btn btn-success form-control" style="margin-top:5%;">
-                                    Sign in
-                                </button>
+                               
+                                <input type="submit" name="name" value="Sign In" class="btn btn-success form-control"  style="margin-top:5%;"/>
                             </div>
                         </div>
                     </div>
-                    
-                </form>
+                }
                
+
             </div>
         </div>
 
