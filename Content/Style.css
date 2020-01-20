@@ -126,14 +126,14 @@ ul ul a {
     background: #6d7fcc;
 }
 
-.login-header {
+.Authentication-header {
     width: 100%;
     padding-top: 32px !important;
     padding-bottom: 24px !important;
     height: 105px;
 }
 
-.container-login-header {
+.container-Authentication-header {
     height: 75px;
     margin-right: auto;
     margin-left: auto;
@@ -155,12 +155,12 @@ div {
     display: block;
 }
 
-.login-main {
+.Authentication-main {
       width: 340px;
     margin: 0 auto;
 }
 
-.login-container {
+.Authentication-container {
     margin-right: 550px;
     margin-left: 550px;
     padding-right: 16px;
@@ -191,7 +191,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     display: block;
 }
 
-.login-form-header {
+.Authentication-form-header {
     width: 288px;
     height: 36px;
     padding: 0 !important;
@@ -202,7 +202,7 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     font-weight: 300;
     letter-spacing: -.5px;
 }
-.login-form-body {
+.Authentication-form-body {
     border-radius: 5px;
 }
 .mt-3 {
