@@ -1,7 +1,7 @@
 ﻿$(document).ready(function () {
 
-    $('#sidebarCollapse').on('click', function () {
-        $('#sidebar').toggleClass('active');
+    $('#sidebarCollapse').click(function () {
+        $('#sidebar').toggleClass("active");
     });
 
 
@@ -45,7 +45,7 @@
     $('#txtDeleteDevice').on('input', function () {
         if ($(this).val() == $('#btnModalDlt').val()) {
             $('#btnDeleteDevice').attr('disabled', false);
-            $('#btnDeleteDevice').val($('#btnModalDlt').val())            
+            $('#btnDeleteDevice').val($('#btnModalDlt').val())
         } else {
             $('#btnDeleteDevice').attr('disabled', true);
         }

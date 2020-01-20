@@ -17,7 +17,7 @@ namespace WalletWebUtility.Controllers
         }
         //POST : Login user authentication
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       // [ValidateAntiForgeryToken]
         public ActionResult UserAuthentication(MobileLogin login)
         {
             if (ModelState.IsValid)
@@ -27,7 +27,7 @@ namespace WalletWebUtility.Controllers
                     var response = db.mobilelogin.Where(s => s.username.Equals(login.username) && s.password.Equals(login.password)).FirstOrDefault();
                     if (response != null)
                     {
-                        Session["username"] = response.username.ToString();
+                        Session["Username"] = response.username.ToString();
                         return RedirectToAction("Index", "Home");
                     }
                 }
