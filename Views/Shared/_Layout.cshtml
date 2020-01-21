@@ -8,15 +8,24 @@
 
     @Scripts.Render("~/bundles/jquery")
     @Styles.Render("~/Content/css")
-   
-   
+
+
 </head>
 <body>
     <div class="wrapper">
 
         <nav id="sidebar">
-            <div class="sidebar-header">
-                <img src="~/Content/mlhuillierlogo.png" alt="mlhuillierlogo" width="210" height="75">
+            <div class="sidebar-header row" style="">
+                <div >
+                    <button type="button" id="sidebarCollapses" class="btn btb-light ">
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
+              
+                <div>
+                    <img src="~/Content/mlhuillierlogo.png" alt="mlhuillierlogo" width="210" height="75">
+                </div>
+                
             </div>
 
             <ul class="list-unstyled components">
@@ -60,24 +69,31 @@
             </ul>
         </nav>
         <div id="content">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light" style="padding:10px;">
+            <div class="row">
+                <div>
+                    <button type="button" id="sidebarCollapse" class="btn btb-light ">
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
+           
+                <div>
+                    <img src="~/Content/mlhuillierlogo.png" alt="mlhuillierlogo" width="210" height="75">
+                </div>
+            </div>
+      
 
-                <button type="button" id="sidebarCollapse" class="btn btb-light">
-                    <i class="fa fa-align-justify"></i>
-                </button>
-
-            </nav>
             @RenderBody()
             <hr />
             <footer>
                 <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
             </footer>
         </div>
+        <div class="overlay"></div>
     </div>
 
     @Scripts.Render("~/bundles/customScripts")
     @Scripts.Render("~/bundles/scripts")
     @RenderSection("scripts", required: false)
-   
+
 </body>
 </html>

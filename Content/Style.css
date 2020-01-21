@@ -14,6 +14,12 @@
 #sidebar {
     min-width: 250px;
     max-width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* top layer */
+    z-index: 9999;
 }
 
     #sidebar.active {
@@ -88,6 +94,7 @@ a, a:hover, a:focus {
 }
 
     #sidebar .sidebar-header {
+        width:250px!important;
         padding: 10px;
         background: #FFFFFF;
     }
@@ -246,3 +253,13 @@ label {
         display: block;
         opacity: 1;
     }
+
+#sidebarCollapses {
+    margin-top: -3%;
+    height: 24px;
+    width: 16px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
