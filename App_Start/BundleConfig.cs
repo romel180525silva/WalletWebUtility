@@ -8,8 +8,7 @@ namespace WalletWebUtility.App_Start
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/jquery-3.4.1.min.js",
-                        "~/Scripts/jquery-3.4.1.intellisense.js"));
+                        "~/Scripts/jquery-3.4.1.min.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/customScripts").Include(
                         "~/Scripts/main.js",
@@ -27,6 +26,7 @@ namespace WalletWebUtility.App_Start
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap*",
+                      "~/Content/font-awesome.css",
                       "~/Content/modal-loading.css",
                       "~/Content/modal-loading-animate.css",
                       "~/Content/Style.css"));

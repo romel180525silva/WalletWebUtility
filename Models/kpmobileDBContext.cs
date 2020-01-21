@@ -12,7 +12,7 @@ namespace WalletWebUtility.Models
     public class kpmobileDBContext : DbContext
     {
         public DbSet<device> devices { get; set; }
-        public DbSet<MobileLogin> mobileLogins { get; set; }
+        public DbSet<MobileLogin> mobilelogin { get; set; }
         public DbSet<MobileAccounts> mobileAccounts { get; set; }
         public kpmobileDBContext()
       : base("name=MyContext")
