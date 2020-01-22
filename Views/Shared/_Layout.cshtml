@@ -15,18 +15,19 @@
     <div class="wrapper">
 
         <nav id="sidebar">
-            <div class="sidebar-header row" style="">
-                <div >
-                    <button type="button" id="sidebarCollapses" class="btn btb-light ">
-                        <i class="fa fa-align-justify"></i>
-                    </button>
-                </div>
-              
-                <div>
-                    <img src="~/Content/mlhuillierlogo.png" alt="mlhuillierlogo" width="210" height="75">
-                </div>
+            <div class="sidebar-header row-custom" style="">
+
+                <button type="button" id="sidebarClose" class="btn ">
+                    <i class="fa fa-align-justify"></i>
+                </button>
+                <button type="button"  class="btn" style="padding-left:0px;">
+                    <img src="~/Content/mlhuillierlogo.png" alt="mlhuillierlogo" width="175" height="50">
+                </button>
                 
+
+
             </div>
+
 
             <ul class="list-unstyled components">
                 <li class="active">
@@ -69,18 +70,21 @@
             </ul>
         </nav>
         <div id="content">
-            <div class="row">
-                <div>
-                    <button type="button" id="sidebarCollapse" class="btn btb-light ">
-                        <i class="fa fa-align-justify"></i>
-                    </button>
-                </div>
-           
-                <div>
-                    <img src="~/Content/mlhuillierlogo.png" alt="mlhuillierlogo" width="210" height="75">
-                </div>
+            <div class="main-header row">
+
+                <button type="button" id="sidebarOpen" class="btn" style="margin-left:10px;">
+                    <i class="fa fa-align-justify"></i>
+                </button>
+
+
+
+                <button type="button"  class="btn " style="padding-left:0px;">
+                    <img src="~/Content/mlhuillierlogo.png" alt="mlhuillierlogo" width="175" height="50">
+                </button>
+               
+
             </div>
-      
+
 
             @RenderBody()
             <hr />

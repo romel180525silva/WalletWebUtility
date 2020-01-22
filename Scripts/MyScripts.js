@@ -1,13 +1,14 @@
 ﻿$(document).ready(function () {
-    $('#sidebar').removeClass("active");
-    $('#sidebarCollapse').click(function () {
+    $('#sidebar').toggleClass("active");
+    $('#sidebarOpen').click(function () {
         $('#sidebar').toggleClass("active");
         $('.overlay').addClass('active');
         $('.collapse.in').toggleClass('in');
         $('a[aria-expanded=true]').attr('aria-expanded', 'false');
     });
-    $('#sidebarCollapses').click(function () {
+    $('#sidebarClose,.overlay').click(function () {
         $('#sidebar').toggleClass("active");
+        $('.overlay').removeClass('active');
     });
 
 
